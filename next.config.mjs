@@ -3,7 +3,7 @@
 
 
 const nextConfig = {
-  basePath: isProd ? '/nextjs-blog-deployment' : '',
+ 
   output: 'export',
   distDir: 'dist',
   images: {
